@@ -4,3 +4,15 @@ body{
 h3{
     color:green;
 }
+.paragrafo{
+    /*Classes*/
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+#titulo-unico{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+
+}
